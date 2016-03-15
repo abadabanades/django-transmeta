@@ -42,7 +42,7 @@
 0.6.7 (2012-03-20)
 ------------------
 
-- Change the representation (verbose_name) of the transmeta labels 
+- Change the representation (verbose_name) of the transmeta labels
 
 
 0.6.6 (2012-02-06)
